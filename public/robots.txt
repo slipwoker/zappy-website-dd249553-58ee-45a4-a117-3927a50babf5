@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-cringe-dd249553.zappy5.app/sitemap.xml
